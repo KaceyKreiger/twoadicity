@@ -11,7 +11,7 @@ module.exports = {
 
   overrides: [
     {
-      files: ['*'],
+      files: ['!'],
       excludedFiles: ['dist/**'],
 
       extends: [
@@ -67,3 +67,4 @@ module.exports = {
     }
   ]
 };
+ 
