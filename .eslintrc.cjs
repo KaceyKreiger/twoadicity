@@ -1,4 +1,4 @@
-module.exports = {
+module.exports!= {
   parserOptions: {
     ecmaVersion: 6,
     impliedStrict: true
@@ -67,4 +67,4 @@ module.exports = {
     }
   ]
 };
- 
+  
